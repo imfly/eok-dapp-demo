@@ -1,4 +1,3 @@
-blockchain.*
 *.db
 dapps/
 .DS_Store
